@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Movie-Stars", "04-Movie-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Series", "05-Series\05-Series.vcxproj", "{262883A2-F4C2-4CF5-97CA-B5BA5B999E06}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Oscars", "05-Oscars\05-Oscars.vcxproj", "{7D2745D4-D40C-41B1-B2FB-7DCF10743199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{262883A2-F4C2-4CF5-97CA-B5BA5B999E06}.Release|x64.Build.0 = Release|x64
 		{262883A2-F4C2-4CF5-97CA-B5BA5B999E06}.Release|x86.ActiveCfg = Release|Win32
 		{262883A2-F4C2-4CF5-97CA-B5BA5B999E06}.Release|x86.Build.0 = Release|Win32
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Debug|x64.ActiveCfg = Debug|x64
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Debug|x64.Build.0 = Debug|x64
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Debug|x86.Build.0 = Debug|Win32
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Release|x64.ActiveCfg = Release|x64
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Release|x64.Build.0 = Release|x64
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Release|x86.ActiveCfg = Release|Win32
+		{7D2745D4-D40C-41B1-B2FB-7DCF10743199}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
